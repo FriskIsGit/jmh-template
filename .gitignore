@@ -4,3 +4,4 @@
 *.iml
 META-INF
 *.txt
+dependency-reduced-pom.xml
